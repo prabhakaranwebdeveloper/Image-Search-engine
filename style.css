@@ -74,4 +74,20 @@ form button{
     object-fit: cover;
     border-radius: 5px;
 }
+/* Responsive Web design  for mobile*/
 
+@media screen and (max-width:500px) {
+     form {
+        width: 60%;
+        height: 50px;
+        position: relative;
+        right: 60px;
+    }
+    form input{
+        font-size: 15px;
+    }
+    #searchResult{
+        width: 80%;
+        display: block;
+    }
+}
