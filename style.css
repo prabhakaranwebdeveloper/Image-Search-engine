@@ -78,7 +78,7 @@ form button{
 
 @media screen and (max-width:500px) {
      form {
-        width: 60%;
+        width: 90%;
         height: 50px;
         position: relative;
         right: 60px;
