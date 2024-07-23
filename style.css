@@ -80,10 +80,12 @@ form button{
      form {
         width: 90%;
         height: 50px;
-        position: relative;
-        right: 60px;
+/*         position: relative;
+        right: 60px; */
     }
-   
+     form input{
+        font-size: 15px;
+    }
     #searchResult{
         width: 80%;
         display: block;
